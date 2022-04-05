@@ -1,0 +1,3 @@
+# Highcharts Maps exercises
+
+Description...
