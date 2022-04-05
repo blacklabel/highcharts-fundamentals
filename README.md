@@ -1,1 +1,0 @@
-# highcharts-fundamentals
