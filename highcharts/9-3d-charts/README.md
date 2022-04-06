@@ -1,4 +1,4 @@
-# exercise 8
+# exercise 9
 
 1 part: Create a solar system with projections of planets on all walls.
 ![3d-1.gif](3d-1.gif)
