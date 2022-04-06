@@ -4,4 +4,4 @@
 ![3d-1.gif](3d-1.gif)
 
 2 part: Create a pyramid/funnel graph
-![3d-2.png](3d-2.gif)
+![3d-2.png](3d-2.png)
