@@ -1,5 +1,5 @@
-# exercise 1
+# exercise 2
 
-Generate 3 column series with random data (0 <= y <= 10). Find the highest column (or columns) and display “max” label above.
-Set `yAxis.max` to be exactly 2 times greater that the `y` of the max column. Try to find info about why `yAxis.max` sometimes it's not that easy to set a specific `yAxis.max` (depending on data).
-Add yAxis plotLine with a value of 1.5 * the `y` of the max column.
+Convert the chart from exercise 1 to polar. Render at least two additional responsive circles in different ways (similar to blue/yellow/red circles on the image below).
+
+![exercise-2.png](exercise-2.png)
