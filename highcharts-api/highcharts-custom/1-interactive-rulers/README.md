@@ -56,5 +56,5 @@ Implement interactive rulers which can be easily added to the chart via click ev
   - On marker drop
   - On marker remove
 
-  ![fig 1.gif](fig 1.gif)
-  ![fig 2.gif](fig 2.gif)
+  ![fig 1.gif](fig_1.gif)
+  ![fig 2.gif](fig_2.gif)
