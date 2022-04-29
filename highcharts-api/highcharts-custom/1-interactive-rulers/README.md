@@ -2,7 +2,7 @@
 
 #### Tasks:
 
-- [ ] - Recommend API, discuss it with the teacher
+- [ ] - Recommend API and directories structure, discuss it with the teacher
 - [ ] - Estimate time needed to implement the customization below, send the estimate to the teacher
 - [ ] - Wait for the green light from the teacher
 - [ ] - Implement
