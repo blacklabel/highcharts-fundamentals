@@ -1,3 +1,0 @@
-# Highcharts Clients exercises
-
-Description...
