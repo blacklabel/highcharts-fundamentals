@@ -1,6 +1,6 @@
 # Exercise 11 - 3D Funnels
 
-Create a 3D chart composition, like in the image below, using two series:
-`funnel3d` and `pyramid3d`.
+Create a combination of 3D series types in the chart, like in the image
+below, using: `funnel3d` and `pyramid3d`.
 
 ![3d-funnels.jpg](3d-funnels.jpg)
