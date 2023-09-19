@@ -1,5 +1,7 @@
 # exercise 12
 
-Create a similar chart, then add logic for highlighting xAxis' label when hovering over above columns group.
+- Create a chart similar to the one in the GIF.
+- Add logic for highlighting ```xAxis.labels``` when hovering over above columns group.
+- Modify the fading effect to highlight only the columns of the hovered group.
 
-![label-highlight.gif](label-highlight.gif)
+![12-hover-label-highlight.gif](12-hover-label-highlight.gif)
