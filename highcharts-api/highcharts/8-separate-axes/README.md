@@ -1,6 +1,6 @@
 # highcharts/8-separate-axes
 
-Create a bar chart with two separate red series on the separate axes, see an image below.
+Create a bar chart with two separate red series on the separate axes. For reference, see the image below.
 
 Remember that:
 
