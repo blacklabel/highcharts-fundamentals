@@ -5,7 +5,7 @@ The indicator should have 2 lines. Values of first (main) line should be calcula
 The values of the secondary line should be calculated as a Geometric moving average (GMA).
 
  and accept following API options on series level.
- - `params.period` number of points each value should be calculated on.
+ - `params.period` - number of points each value should be calculated on.
  - `lineColor` - color of (maiN) SMA line.
  - `gma.lineColor` - color of GMA line.
 
