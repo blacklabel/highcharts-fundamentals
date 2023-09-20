@@ -9,12 +9,12 @@ Highcharts.stockChart('container', {
     linkedTo: 'main',
     lineColor: 'green',
     params: {
-        period: 5
+      period: 5
     },
     gmaLine: {
-        styles: {
-            lineColor: 'purple'
-        }
+      styles: {
+        lineColor: 'purple'
+      }
     }
   }]
 });
