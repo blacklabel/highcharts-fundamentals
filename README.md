@@ -8,8 +8,8 @@ containing plain js and HTML files, with task descriptions.
 
 ## Process
 Whenever some task is ready, prepare a PR with a working demo on a separate
-branch, create a PR and assign the appropriate trainer for the review, to be
-informed when the task is completed and ready for review. The branch should be
+branch and assign the appropriate trainer for the review, to be
+informed when the task is completed and ready for feedback. The branch should be
 named with the name of the task set folder and the task name, e.g.:
 `highcharts/00-initial-chart` or `highcharts-gantt/02-journeys-visualization`.
 The PR name should be the same as the branch name.
