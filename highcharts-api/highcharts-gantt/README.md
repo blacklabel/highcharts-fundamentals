@@ -1,3 +1,4 @@
-# Highcharts Gantt exercises
+# Highcharts Gantt Exercises
 
-Description...
+This folder will contain tasks that explain the Highcharts Gantt module. They
+will be placed here in the near future.

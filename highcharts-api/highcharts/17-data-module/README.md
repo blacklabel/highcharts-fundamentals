@@ -1,4 +1,5 @@
-# exercise 17
+# Exercise 17 - Data Module
+
 Using the [data module](https://api.highcharts.com/highcharts/data), load the data in the csv format.
 
 Then, using correct callback functions in the API, parse the options/data to adjust the chart, to resemble the one in the gif.
@@ -10,4 +11,5 @@ Here are some general requirements:
 The values in the tooltip and labels on the yAxis should be displayed in a format HH:MM e.g. 18:34.
 - Using SVGRenderer add a button, which will be responsible for changing the Temperature Unit between fahrenheit and celsius. This would make the line series to display a different values.
 
-Here is an example: ![TUTAJ DOBRY GIF](url)
+Here is an example:
+![todo.gif](todo.gif)
