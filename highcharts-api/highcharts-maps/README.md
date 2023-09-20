@@ -1,3 +1,4 @@
-# Highcharts Maps exercises
+# Highcharts Maps Exercises
 
-Description...
+This folder will contain tasks that explain the Highcharts Maps module. They
+will be placed here in the near future.
