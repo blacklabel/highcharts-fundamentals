@@ -6,4 +6,4 @@ that offers drawing projections of 3D points on axes and implement it into the
 exercise. Make sure the presented chart is legible, i.e. all points are visible.
 Use a gradient to make the 3D points look more like spheres.
 
-![todo.gif](todo.gif)
+![exercise.gif](exercise.gif)

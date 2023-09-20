@@ -5,4 +5,4 @@ Based on the demo, that you created in the [exercise 1](https://github.com/black
 To achieve that, visit our [API reference page](https://api.highcharts.com/highcharts/).
 Also you can visit our demo pages for some inspiration in drawing circles.
 
-![todo.jpg](todo.jpg)
+![exercise.png](exercise.png)

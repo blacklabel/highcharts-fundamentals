@@ -7,9 +7,6 @@ There should be a toggle button, which is changing, which other value between Sa
 There should also be a slider, which will be changing the current value of a value mentioned in the line above, to be constant for a current chart.
 
 Check the gif below for a reference.
-<!-- Create a Heatmap series type, where each point has a different color changing in HSV (Hue Saturation Value) color format.
-xAxis should be responsible for Hue.
 
-There should be 2 radio buttons which are responsible for changing yAxis between Saturation and Value. -->
-
-![heatmap-hsv.gif](heatmap-hsv.gif)
+(The color palette in the gif is slightly different due to file conversion)
+![exercise.gif](exercise.gif)

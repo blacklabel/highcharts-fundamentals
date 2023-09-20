@@ -9,4 +9,4 @@ The chart should contain two series:
 * the other - regular scatter series. Be sure that the second series will not be
 boosted.
 
-![exercise-7.png](exercise-7.png)
+![exercise.png](exercise.png)
