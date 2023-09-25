@@ -1,4 +1,4 @@
-# Stock exercise 1 - Stock Initial
+# Stock Exercise 1 - Stock Initial
 
 Convert a basic chart into a stock chart. Modify the basic elements of the stock
 chart to look like the image below. Pay attention to the position of range

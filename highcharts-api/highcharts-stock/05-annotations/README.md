@@ -1,11 +1,5 @@
-# Stock Exercise 5 - Annotations
+# Stock Exercise 6 - Annotations
 
-Figure out why this annotation is not working, without changing the x and y
-properties values.
+Below the stock chart, create inputs that allow you to dynamically add `crookedLine` annotations. There should be a possibility to modify the annotation after adding it, so it will be necessary to add appropriate modules and a CSS file. Inputs should be limited to entering values from the chart, so after loading the chart you should add min and max attributes to the inputs extracted from the chart.
 
-After fixing it, create an HTML button. On click of that button, add a rectangle
-draggable annotation to the chart. To that annotation, add a label (that will be
-attached to the rectangle, and will drag together with it). Then, change the
-label’s text to some dynamic value, for example annotation’s x or y value.
-
-![todo.gif](todo.gif)
+![exercise.gif](exercise.gif)
