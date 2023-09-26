@@ -7,3 +7,5 @@ This button should behave like any other built-in stock tools button.
 
 Add any icon to that button (custom-created, fetched from the internet, or added to the local project).
 For a reference, please take a look at the gif below.
+
+![exercise.gif](exercise.gif)

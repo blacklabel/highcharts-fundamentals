@@ -8,4 +8,4 @@ draggable annotation to the chart. To that annotation, add a label (that will be
 attached to the rectangle, and will drag together with it). Then, change the
 label’s text to some dynamic value, for example annotation’s x or y value.
 
-![todo.gif](todo.gif)
+![exercise.gif](exercise.gif)

@@ -8,3 +8,5 @@ Add functionality that will scale yAxis on drag. Let's say we have extremes 1000
 You can find and see this functionality on https://pl.tradingview.com/
 
 Create 2 seperate yAxes and add the functionality to each of them to work seperately. See the gif below for reference:
+
+![exercise.gif](exercise.gif)

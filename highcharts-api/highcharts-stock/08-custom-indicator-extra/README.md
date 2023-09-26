@@ -15,4 +15,6 @@ The values of the secondary line should be calculated as a Geometric moving aver
 
 please, don't modify the configuration of the chart.
 
-Check the gif below for reference.
+Check the image below for reference.
+
+![exercise.png](exercise.png)

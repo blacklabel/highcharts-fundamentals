@@ -18,6 +18,6 @@ following period should be displayed:
 Why is there a difference between xData/yData length and points length?
 
 **Bonus 2:** The end of the series is overlapping with the xAxis labels on the
-right side, don't you think? How would you resolve this problem? 
+right side, don't you think? How would you resolve this problem?
 
-![todo.gif](todo.gif)
+![exercise.gif](exercise.gif)
