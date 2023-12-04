@@ -1,1 +1,0 @@
-const data = document.getElementById('csv').innerHTML;
